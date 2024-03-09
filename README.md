@@ -9,7 +9,3 @@ I've been working as a backend developer at a company, where I've gained valuabl
 ## Get in Touch
 - 🌐 Check out my personal website: [deverfan.xyz](https://deverfan.xyz)
 - 📫 Connect with me on Telegram: [@ErfunR](https://t.me/ErfunR)
-
-Feel free to explore my repositories and projects here on GitHub. If you have any questions or want to collaborate, don't hesitate to reach out!
-
-Let's code and build amazing things together! 🚀
